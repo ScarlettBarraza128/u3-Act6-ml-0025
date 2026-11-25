@@ -1,4 +1,8 @@
 ## Emily Barraza NC = 0025
+
+## imagen iris 
+![alt text](image-6.png)
+
 # 🕵️‍♂️ Práctica: Identificación de Problemas en los Datos
 
 > **⏱️ Duración:** 2 horas  
